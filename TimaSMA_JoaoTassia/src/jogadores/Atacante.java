@@ -9,7 +9,7 @@ public class Atacante extends BaseJogador {
 
 	public Atacante(PlayerCommander player) {
 		super(player);
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public void acaoAtacante(long nextIteration, int pos) {
